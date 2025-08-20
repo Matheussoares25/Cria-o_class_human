@@ -1,0 +1,8 @@
+C:\Users\lab1062\Desktop\matheus_2ds\obj\Debug\matheus_2ds.csproj.AssemblyReference.cache
+C:\Users\lab1062\Desktop\matheus_2ds\obj\Debug\matheus_2ds.csproj.CoreCompileInputs.cache
+C:\Users\lab1062\Desktop\matheus_2ds\bin\Debug\matheus_2ds.exe.config
+C:\Users\lab1062\Desktop\matheus_2ds\bin\Debug\matheus_2ds.exe
+C:\Users\lab1062\Desktop\matheus_2ds\bin\Debug\matheus_2ds.pdb
+C:\Users\lab1062\Desktop\matheus_2ds\obj\Debug\matheus_2ds.exe
+C:\Users\lab1062\Desktop\matheus_2ds\obj\Debug\matheus_2ds.pdb
+C:\Users\lab1062\Desktop\matheus_2ds\obj\Debug\matheus_2ds.exe.config

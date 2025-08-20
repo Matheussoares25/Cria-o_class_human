@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab1062\\Desktop\\projetoclasses\\",
+  "WorkspaceRootPath": "C:\\Users\\lab1062\\Desktop\\Cria-o_class_human\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4970A4F-D84A-423E-8FF4-40308AB24069}|projetoclasses.csproj|c:\\users\\lab1062\\desktop\\projetoclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4970A4F-D84A-423E-8FF4-40308AB24069}|projetoclasses.csproj|c:\\users\\lab1062\\desktop\\cria-o_class_human\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4970A4F-D84A-423E-8FF4-40308AB24069}|projetoclasses.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab1062\\Desktop\\projetoclasses\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab1062\\Desktop\\Cria-o_class_human\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lab1062\\Desktop\\projetoclasses\\Program.cs",
+              "ToolTip": "C:\\Users\\lab1062\\Desktop\\Cria-o_class_human\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

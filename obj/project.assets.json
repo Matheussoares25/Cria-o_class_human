@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lab1062\\Desktop\\projetoclasses\\projetoclasses.csproj",
+      "projectUniqueName": "C:\\Users\\lab1062\\Desktop\\Cria-o_class_human\\projetoclasses.csproj",
       "projectName": "projetoclasses",
-      "projectPath": "C:\\Users\\lab1062\\Desktop\\projetoclasses\\projetoclasses.csproj",
+      "projectPath": "C:\\Users\\lab1062\\Desktop\\Cria-o_class_human\\projetoclasses.csproj",
       "packagesPath": "C:\\Users\\lab1062\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lab1062\\Desktop\\projetoclasses\\obj\\",
+      "outputPath": "C:\\Users\\lab1062\\Desktop\\Cria-o_class_human\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
